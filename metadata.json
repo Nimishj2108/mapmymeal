@@ -1,0 +1,6 @@
+{
+  "name": "Map My Meal",
+  "description": "AI-Powered Smart Food Waste Reduction and Sustainable Redistribution Ecosystem for Institutional Kitchens and Food Processing Units (SIH 2026 - SIH26234)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
